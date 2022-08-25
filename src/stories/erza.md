@@ -33,7 +33,7 @@ D’un coup, les flèches cessèrent de fendre le ciel. La porte s’abaissa dan
 
 \- Avancez soldats ! La victoire est à nous ! 
 
-	Une fois dans le palais la résistance fut mince. Les sculptures et poteries furent brisées, les tableaux arrachés, et les tapisseries saccagées. Il était décidé qu’il ne resterait plus rien du prestige de ses longs couloirs outrageusement fastueux. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une fois dans le palais la résistance fut mince. Les sculptures et poteries furent brisées, les tableaux arrachés, et les tapisseries saccagées. Il était décidé qu’il ne resterait plus rien du prestige de ses longs couloirs outrageusement fastueux. 
 Les guerriers royaux restant tombaient comme des mouches sous les hurlements des assaillants depuis si longtemps affamés. L’on marchait triomphant dans le sang des assiégés, abattant sauvagement nos épées en direction de la salle du trône.
 La victoire était à nous.
 Les lourdes portes de la salle d’audience furent arrachées dans un fracas. Tandis que mes hommes investissaient le lieu, j’essuyai à la hâte ma lame poisseuse, laissant le chaos faire son œuvre à l’intérieur. Impassible, je m’approchai alors de l’homme pitoyable soumis par deux de mes soldats devant le trône. 
@@ -105,7 +105,7 @@ Il fit un signe de la tête à ses hommes et ordonna, tout en se dirigeant conqu
 
 \- Tuez-le.
 
-	La lame du premier s'abattit sans aucune hésitation tandis qu’au même instant je me jetai contre le second de tout mon poids, ce qui suffit à lui faire perdre l’équilibre.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La lame du premier s'abattit sans aucune hésitation tandis qu’au même instant je me jetai contre le second de tout mon poids, ce qui suffit à lui faire perdre l’équilibre.
 J’arrachais à la hâte une épée d’un corps encore frais, pendant que l’arme du troisième allait directement se planter dans le sol là où je me tenais une fraction de seconde plus tôt.
 J’esquivais les assauts tant bien que mal, manquant plus d’une fois de trébucher sur les gisants qui constellaient le sol.  Les épées sifflaient, le métal criait, et petit à petit je me retrouvais acculé. Sous les assauts incessants je fléchissais, alors que pleuvait toujours et encore le fer de mes ennemis en effervescence.
 Ca ne pouvait pas se terminer ainsi ! J’avais tant sacrifier pour arriver jusqu’ici !
