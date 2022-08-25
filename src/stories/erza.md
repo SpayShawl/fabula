@@ -1,7 +1,7 @@
 #__**Ezra Le maudit**__
 ##*Nouvelle*
 
-	C’était grisant. Voir la muraille s'étioler à vue d'œil galvanisait les troupes, qui redoublaient alors d’effort pour en venir à bout. J’esquissai un sourire. A ce rythme, nous prendrions la tête de ce maudit royaume et celle de son bon roi dans la soirée.
+     C’était grisant. Voir la muraille s'étioler à vue d'œil galvanisait les troupes, qui redoublaient alors d’effort pour en venir à bout. J’esquissai un sourire. A ce rythme, nous prendrions la tête de ce maudit royaume et celle de son bon roi dans la soirée.
 
 \- Nous sommes passés !
 
@@ -128,7 +128,7 @@ Je rengainai mon arme et scellai le fourreau :
 
 \- C’est par votre sang que la soif de vengeance de mon épée sera étanchée.
 
-	Ainsi s’achevait une ère de violence et d’injustice, que le Capitaint ne tolèrerait plus jamais en ce royaume. Il se laissa tomber contre le trône et le silence s’abattit dans la salle d’audience, ne laissant au nouveau régent que l’odeur de sang qui avait imprégné ses vêtements, et le goût âcre de la liberté dans la bouche.
+     Ainsi s’achevait une ère de violence et d’injustice, que le Capitaint ne tolèrerait plus jamais en ce royaume. Il se laissa tomber contre le trône et le silence s’abattit dans la salle d’audience, ne laissant au nouveau régent que l’odeur de sang qui avait imprégné ses vêtements, et le goût âcre de la liberté dans la bouche.
 
 
 
