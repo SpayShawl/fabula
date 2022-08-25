@@ -1,27 +1,18 @@
-import Markdown from 'markdown-to-jsx';
-import { useEffect, useState } from 'react';
 import './App.css';
+import Glossary from './components/Glossary/glossary';
+import Markdown from './components/Markdown/markdown';
+import { getQueryparameter } from './utils/queries';
 
 const App: React.FunctionComponent = () => {
-  const file_name = 'vita.md';
-  const [post, setPost] = useState('');
-  
-  useEffect(() => {
-    import(`./stories/${file_name}`)
-        .then(res => {
-            fetch(res.default)
-                .then(res => res.text())
-                .then(res => setPost(res))
-                .catch(err => console.log(err));
-        })
-        .catch(err => console.log(err));
-  });
+  const file_name = getQueryparameter('story');
+
+  if(!file_name) {
+    return <Glossary></Glossary>;
+  }
 
   return (
     <main>
-      <Markdown className="markdown-body">
-        {post}
-      </Markdown>
+      <Markdown file_name={file_name}></Markdown>
     </main>
   );
 }

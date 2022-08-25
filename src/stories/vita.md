@@ -1,5 +1,5 @@
 # Vita
-## Chapitre premier | Condamné à vivre...
+## Chapitre premier - Condamné à vivre...
 D'après vous, combien faut-il qu'un humain, mentalement stable, tue de personne avant de commencer à négliger l'importance de la vie d'autrui ? Cinq, dix ? Non, **dix-sept** ! Du moins, si on accepte le fait de considérer comme mentalement stable quelqu'un qui a pour seule identité celui d'un cobaye de laboratoire.
 Personnellement, je n'ai jamais pu blairer les chercheurs qui jouent avec la vie pour démontrer de quelconques théories. Et vous savez la meilleure ? Tous ces meurtres ont pour unique cause la recherche de l'immortalité, "grand pouvoir convoité de toujours"... Ça me donne envie de gerber !
 
