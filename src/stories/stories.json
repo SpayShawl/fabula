@@ -1,9 +1,11 @@
 {
-  "vita": {
-    "authors": ["Spay Shawl"]
+  "fabulam": {
+    "authors": ["Spay Shawl"],
+    "title": "Fabulam deperditi"
   }, 
   "erza" : {
-    "authors": ["Haeys"] 
+    "authors": ["Haeys"],
+    "title": "Erza le maudit"
   }
 }
 

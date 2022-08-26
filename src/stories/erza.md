@@ -1,7 +1,7 @@
 #__**Ezra Le maudit**__
 ##*Nouvelle*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C’était grisant. Voir la muraille s'étioler à vue d'œil galvanisait les troupes, qui redoublaient alors d’effort pour en venir à bout. J’esquissai un sourire. A ce rythme, nous prendrions la tête de ce maudit royaume et celle de son bon roi dans la soirée.
+	C’était grisant. Voir la muraille s'étioler à vue d'œil galvanisait les troupes, qui redoublaient alors d’efforts pour en venir à bout. J’esquissai un sourire. A ce rythme, nous prendrions la tête de ce maudit royaume et celle de son bon roi dans la soirée.
 
 \- Nous sommes passés !
 
@@ -33,7 +33,7 @@ D’un coup, les flèches cessèrent de fendre le ciel. La porte s’abaissa dan
 
 \- Avancez soldats ! La victoire est à nous ! 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Une fois dans le palais la résistance fut mince. Les sculptures et poteries furent brisées, les tableaux arrachés, et les tapisseries saccagées. Il était décidé qu’il ne resterait plus rien du prestige de ses longs couloirs outrageusement fastueux. 
+	Une fois dans le palais la résistance fut mince. Les sculptures et poteries furent brisées, les tableaux arrachés, et les tapisseries saccagées. Il était décidé qu’il ne resterait plus rien du prestige de ses longs couloirs outrageusement fastueux. 
 Les guerriers royaux restant tombaient comme des mouches sous les hurlements des assaillants depuis si longtemps affamés. L’on marchait triomphant dans le sang des assiégés, abattant sauvagement nos épées en direction de la salle du trône.
 La victoire était à nous.
 Les lourdes portes de la salle d’audience furent arrachées dans un fracas. Tandis que mes hommes investissaient le lieu, j’essuyai à la hâte ma lame poisseuse, laissant le chaos faire son œuvre à l’intérieur. Impassible, je m’approchai alors de l’homme pitoyable soumis par deux de mes soldats devant le trône. 
@@ -42,8 +42,11 @@ Mais encore fallait-il qu’il n’en n’ait jamais eu la trempe.
 Du bout de mon épée, je le découronnai avant de placer ma lame sous sa gorge.
 
 \- Un dernier mot ? Choisissez-le bien.
+
 \- Qui ? questionna sombrement le roi.
+
 \- Comment ça ? demandai-je ne pouvant réprimer un haussement de sourcil.
+
 \- Vous n’auriez jamais pu parvenir jusqu’ici par vos propres moyens. Alors qui ? Qui vous a aidé ? 
 
 Alors qu’un mélange de haine et de dégoût se lisait sur le visage du souverain, un homme entra dans la salle, aussitôt arrêté par mes gardes. Je les sommai de ma main de libre de le laisser passer. Les yeux du roi s’emplirent de rage en se posant sur le nouveau venu :
@@ -53,22 +56,31 @@ Alors qu’un mélange de haine et de dégoût se lisait sur le visage du souver
 Le chancelier s’inclina, narquois :
 
 \- Votre Majesté. Je vois que vous avez accueilli nos invités avec égard !
+
 \- Comment as-tu pu ! vociféra le roi.
 
 Il me décocha un regard noir tandis que je lui intimais de rester en place de la pointe de ma lame. Le Chancelier poursuivit calmement :
 
 \- Voyez-vous, Votre Magnificence, poursuivit le Chancelier… Je ressens depuis quelques temps un certain besoin de … changement.
+
 \- Et t’allier à ce fou te paraissait la seule solution ? 
+
 \- Ce fou, comme vous dites, avait ce dont j’avais besoin. Des hommes prêts à ce sacrifier pour me… nous permettre de prendre cette forteresse.
+
 \- Ce n’est pas pour vous que ces âmes se battent Chancelier. N’ayez pas l’arrogance de croire une telle chose, ajoutai-je.
+
 \- Oui oui, soit. Mais le résultat reste le même, peu importe qu’ils aient levé leurs épées pour la gloire, l’honneur, ou que sais-je encore, lâcha dédaigneux le Chancelier.
 
 Le roi fixa alors ses yeux dans les miens, grave :
 
 \- Vous savez Capitaine, il est très aisé de mener une foule lorsque celle-ci a un adversaire à combattre. C’est à la portée de n’importe quel bel homme. Mais c’est lorsqu’il faut lui donner une raison d’enterrer les armes que l’on reconnait véritablement un dirigeant.
+
 \- Pensez bien ce que vous voulez, mais elle cessera les combats dès l’annonce de votre mort, rétorquai-je sèchement.
-\- Vous comptez l’y obligé ? Vous qui prônez tant la liberté et le libre arbitre ? ria-t’il 
+
+\- Vous comptez l’y obligé ? Vous qui prônez tant la liberté et le libre arbitre ? ria-t’il
+
 \- J’ai foi en l’homme.
+
 \- Vous n’êtes encore qu’un enfant Capitaine. Un pauvre enfant du peuple qui n’a jamais su gérer la frustration de ne pas être au sommet. Ne vous faites pas d’idée, après ma tête, c’est la vôtre qui tombera.
 
 Un instant je cru apercevoir dans son regard l’insolence de la Noblesse, dont font toujours preuve tous ces sangs bleus. Même à genoux se pensait-il toujours supérieur.
@@ -94,18 +106,22 @@ Les gardes me désarmèrent rapidement malgré ma réticence à lâcher mon pomm
 \- Voilà qui est mieux …
 
 Il se tourna ensuite vers moi, tandis que je lui lançai un regard qui en disait long sur ce que je pensais de sa petite vertu :
-.
+
 \- Ne me regardez pas comme ça, voyons Capitaine. C’est votre arrogance qui vous a mis dans cette position. Ne jamais présumer de sa victoire avant d’avoir coupé toutes les têtes.
+
 \- La confiance est une denrée rare il faut croire, crachais-je.
+
 \- Oh ne me parlais pas de confiance, nous avions simplement une alliance intéressée. Mais en même temps, je n’attendais pas grand-chose d’un homme comme vous, bon seulement à diriger une petite bande de barbares sans éducation.
+
 \- Sans ma petite bande de barbares comme vous dites, jamais vous n’auriez pu renverser le pouvoir.
+
 \- Mais n’en doutez pas ! Je vous en suis extrêmement reconnaissant ! Mais comprenez-moi, je ne peux décemment pas laisser à mes côtés un être guidé par une soif de sang intarissable. 
 
 Il fit un signe de la tête à ses hommes et ordonna, tout en se dirigeant conquérant vers le trône :
 
 \- Tuez-le.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La lame du premier s'abattit sans aucune hésitation tandis qu’au même instant je me jetai contre le second de tout mon poids, ce qui suffit à lui faire perdre l’équilibre.
+	La lame du premier s'abattit sans aucune hésitation tandis qu’au même instant je me jetai contre le second de tout mon poids, ce qui suffit à lui faire perdre l’équilibre.
 J’arrachais à la hâte une épée d’un corps encore frais, pendant que l’arme du troisième allait directement se planter dans le sol là où je me tenais une fraction de seconde plus tôt.
 J’esquivais les assauts tant bien que mal, manquant plus d’une fois de trébucher sur les gisants qui constellaient le sol.  Les épées sifflaient, le métal criait, et petit à petit je me retrouvais acculé. Sous les assauts incessants je fléchissais, alors que pleuvait toujours et encore le fer de mes ennemis en effervescence.
 Ca ne pouvait pas se terminer ainsi ! J’avais tant sacrifier pour arriver jusqu’ici !
@@ -128,10 +144,6 @@ Je rengainai mon arme et scellai le fourreau :
 
 \- C’est par votre sang que la soif de vengeance de mon épée sera étanchée.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ainsi s’achevait une ère de violence et d’injustice, que le Capitaint ne tolèrerait plus jamais en ce royaume. Il se laissa tomber contre le trône et le silence s’abattit dans la salle d’audience, ne laissant au nouveau régent que l’odeur de sang qui avait imprégné ses vêtements, et le goût âcre de la liberté dans la bouche.
-
-
-
-###Haeys
+	Ainsi s’achevait une ère de violence et d’injustice, que le Capitaint ne tolèrerait plus jamais en ce royaume. Il se laissa tomber contre le trône et le silence s’abattit dans la salle d’audience, ne laissant au nouveau régent que l’odeur de sang qui avait imprégné ses vêtements, et le goût âcre de la liberté dans la bouche.
 
 
