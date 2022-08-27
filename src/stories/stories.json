@@ -1,1 +1,14 @@
-{"fabulam":{"authors":["Spay Shawl"],"title":"Fabulam deperditi"},"erza":{"authors":["Haeys"],"title":"Erza le maudit"},"tests.md":{"authors":["moi","ici"],"title":"test de moi"}}
+{
+  "fabulam": {
+    "authors": [
+      "Spay Shawl"
+    ],
+    "title": "Fabulam deperditi"
+  },
+  "erza": {
+    "authors": [
+      "Haeys"
+    ],
+    "title": "Erza le maudit"
+  }
+}
