@@ -1,103 +1,103 @@
 body {
-  min-height: 100vh;
+	min-height: 100vh;
 }
 
 main {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
 }
 
 .markdown {
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
 }
 
 .back {
-  margin: 32px 80px 32px 80px;
-  font-size: 1.5em;
-  cursor: pointer;
-  color: #24292f;
+	margin: 32px 80px 32px 80px;
+	font-size: 1.5em;
+	cursor: pointer;
+	color: #24292f;
 }
 
 .markdown-body {
-  margin: 0 80px 32px 80px;
-  text-align: center;
+	margin: 0 80px 32px 80px;
+	text-align: center;
 }
 
-.markdown-body p {
-  text-align: left;
+.markdown-body p,
+.markdown-body li {
+	text-align: left;
 }
 
 .author {
-  padding: 32px 0 16px 32px;
-  font-size: 0.75em;
+	padding: 32px 0 16px 32px;
+	font-size: 0.75em;
 }
 
 .glossary {
-  margin: 2em;
-  justify-content: center;
-  align-items: center;
-  gap: 1em;
+	margin: 2em;
+	justify-content: center;
+	align-items: center;
+	gap: 1em;
 }
 
 .glossary .markdown-body {
-  margin-bottom: 16px;
+	margin-bottom: 16px;
 }
 
 .glossary .markdown-body p {
-  text-align: center;
+	text-align: center;
 }
 
-.glossary a{
-  text-decoration: none;
-  font-size: 1.25em;
-  color: #24292f;
+.glossary a {
+	text-decoration: none;
+	font-size: 1.25em;
+	color: #24292f;
 }
 
-.underline{
-  position: relative;
+.underline {
+	position: relative;
 }
 
-.underline::before{
-  content: '';
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  width: 0;
-  height: 2px;
-  background-color: #24292f;
-  transition: width 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+.underline::before {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 0;
+	height: 2px;
+	background-color: #24292f;
+	transition: width 0.6s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 @media (hover: hover) and (pointer: fine) {
-  .underline:hover::before{
-    left: 0;
-    right: auto;
-    width: 100%;
-  }
+	.underline:hover::before {
+		left: 0;
+		right: auto;
+		width: 100%;
+	}
 }
 
-
 @media screen and (min-width: 200px) and (max-width: 640px) {
-  .back {
-    margin: 16px 32px 16px 32px;
-    font-size: 1.25em;
-  }
+	.back {
+		margin: 16px 32px 16px 32px;
+		font-size: 1.25em;
+	}
 
-  .markdown-body {
-    margin: 0 32px 0 32px;
-  }
+	.markdown-body {
+		margin: 0 32px 0 32px;
+	}
 
-  .author {
-    padding: 16px 0 8px 16px;
-  }
+	.author {
+		padding: 16px 0 8px 16px;
+	}
 
-  .glossary {
-    margin: 1em 0
-  }
+	.glossary {
+		margin: 1em 0;
+	}
 
-  .glossary .markdown-body p {
-    font-size: 0.75em;
-  }
+	.glossary .markdown-body p {
+		font-size: 0.75em;
+	}
 }
