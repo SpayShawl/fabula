@@ -7,3 +7,6 @@ Enfin bref, tout ça pour dire qu'ils ont réussi les cons. Ils ont bel et bien 
 
 Je ne vous le cache pas, ça n'aura duré que 10 ans avant que la fête commence. Le bougre avait suffisamment patienté, l'entrainement sportif qu'il suivait entre les examens l'avait assez renforcé pour rivaliser en combat rapproché avec les gardes. À condition d'avoir l'effet de surprise et personne d'autre à coté. Il n'y a que dans les séries que le héros peut battre des groupes armés à la seule force de ses poings, il n'avait rien d'un héros de toute manière. 
 Vous savez, on ne naît pas tueur, on le devient, certaines fois par choix, ou par un concours de circonstances. D'ailleurs, je ne pense pas que les chercheurs aient compté les trois premiers hommes dans leur moyenne, ils devaient se douter que l'instinct avait remplacé le raisonnement.
+
+## Chapitre second - Amen
+
