@@ -1,1 +1,14 @@
-{"fabulam":{"authors":["Spay Shawl"],"title":"Fabulam deperditi"},"erza":{"authors":["Haeys"],"title":"Erza le maudit"},"testddd":{"authors":["bot"],"title":"test du bot"}}
+{
+  "fabulam": {
+    "authors": [
+      "Spay Shawl"
+    ],
+    "title": "Fabulam deperditi"
+  },
+  "erza": {
+    "authors": [
+      "Haeys"
+    ],
+    "title": "Erza le maudit"
+  }
+}
